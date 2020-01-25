@@ -1,0 +1,4 @@
+#!/bin/bash
+BRITHDATE="jan 1, 2000"
+presents=10
+BRITHDAY=`date -d "$BRITHDATE" +%A `
